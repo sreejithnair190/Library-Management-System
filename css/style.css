@@ -1,0 +1,10 @@
+.side-bar{
+    background-color: whitesmoke;
+    padding: 50px;
+    width: 300px;
+    height: 450px;
+}
+
+.top{
+    margin-top: 1rem;
+}
